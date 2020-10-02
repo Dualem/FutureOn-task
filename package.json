@@ -1,0 +1,23 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "FutureOn technical task",
+  "main": "futureOn.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dualem/FutureOn-task.git"
+  },
+  "author": "Lukasz Wlosek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dualem/FutureOn-task/issues"
+  },
+  "homepage": "https://github.com/Dualem/FutureOn-task#readme"
+}
